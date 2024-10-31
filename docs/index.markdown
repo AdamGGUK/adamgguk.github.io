@@ -6,4 +6,4 @@ layout: home
 
 ---
 
-<strong> hello you disckwad </strong>
+<strong> Beeg test </strong>
