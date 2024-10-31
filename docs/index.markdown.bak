@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
 ---
 
-<strong> hello </strong>
+<strong> hello you disckwad </strong>

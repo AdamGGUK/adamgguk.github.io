@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
-<strong> hello you dickwad </strong>
+<strong> hello you disckwad </strong>
