@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote theme: devlopr-jekyll
+remote theme: jekyll-theme-developr
 plugins:
   - jekyll-feed
 
