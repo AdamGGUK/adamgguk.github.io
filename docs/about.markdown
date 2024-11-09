@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a video game programmer from Denmark, currently based in Dundee, Scotland. <br>
+As a lifelong video game enjoyer, I've always wanted to learn all aspects of games development, from ideation and pre-production, to building and maintaining software.<br>
+I have a special fondness for 2d Games, though I consider myself to be somewhat of a generalist. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<img src="/assets/Adam.jpg" alt="The man himself" style = "width:500px;height:500px;">

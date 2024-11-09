@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Rollio"
+date:   2024-10-25 22:25:57 +0100
+categories: jekyll update
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aw3fqUCw_c?si=bITxCJTzO2l--UFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+Rollio is a game I made in collaboration with a team of skilled designers, artists and a programmer. <br><br>
+I was responsible for prototyping the gameplay mechanics and animation system, as well as implementing all 2D elements (including the UI).

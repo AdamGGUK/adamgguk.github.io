@@ -6,4 +6,7 @@ layout: home
 
 ---
 
-<strong> Beeg test </strong>
+<h1 style="font-size:300%;"> Welcome to my portfolio! </h1>
+Here you'll find all of my games and prototypes, as well as my blog.
+
+
