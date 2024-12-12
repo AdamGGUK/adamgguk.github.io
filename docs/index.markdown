@@ -7,6 +7,8 @@ layout: home
 ---
 
 <h1 style="font-size:300%;"> Welcome to my portfolio! </h1>
-Here you'll find all of my games and prototypes, as well as my blog.
+Here you'll find all of my games and prototypes, as well as my blog.<br>
+
+You can check out my games <a href="http://adamgguk.github.io/games/"> here</a>, and my blog below.
 
 

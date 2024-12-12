@@ -5,7 +5,7 @@ date:   2024-11-02 19:45:57 +0100
 categories: jekyll update
 ---
 
-<img src="/assets/pirate mock up.png" alt="The man himself" style = "width:1000px;height:500px;"><br><br>
+<img src="/assets/pirate mock up.png" alt="Pirates from Hell" style = "width:1000px;height:500px;"><br><br>
 
 Pirates From Hell is an upcoming game.<br>
 As the sole developer, I will be producing all aspects of the game.
